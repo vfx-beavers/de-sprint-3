@@ -17,7 +17,7 @@ api_key = http_conn_id.extra_dejson.get('api_key')
 base_url = http_conn_id.host
 
 POSTGRES_CONN_ID = 'postgresql_de'
-NICKNAME = 'cgbeavers2'
+NICKNAME = '******'
 COHORT = '15'
 
 headers = {
